@@ -1,0 +1,71 @@
+h1 {
+  font-size: 50px;
+  color: #f9813a;
+  text-align: center;
+  position: relative;
+  top: -15px;
+}
+
+h2 {
+  font-size: 22px;
+  font-style: italic;
+  color: #81b214;
+}
+
+.search {
+  text-align: center;
+  position: relative;
+}
+.weather-app {
+  border: 1px solid #fca652;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 490px;
+  border-radius: 15px;
+}
+
+.temp {
+  font-size: 70px;
+  text-align: center;
+  color: #fca652;
+}
+
+.percentages {
+  font-size: 16px;
+  list-style: none;
+  left: 0px;
+  margin: 0 0 20px;
+  text-align: left;
+  font-style: italic;
+  position: relative;
+  top: -20px;
+  left: -14px;
+}
+
+.world {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  border: 1px solid gray;
+  top: 19px;
+  border-radius: 50%;
+  border-spacing: 100px;
+  padding: 25px;
+  left: 25px;
+  width: 120%;
+}
+
+.info {
+  list-style-type: none;
+  font-size: 18px;
+  font-style: oblique;
+  color: #40bad5;
+  position: relative;
+  top: -10px;
+}
+
+.location {
+  font-size: 40px;
+  font-weight: bold;
+}

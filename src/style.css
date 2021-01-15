@@ -12,6 +12,12 @@ h2 {
   color: #81b214;
 }
 
+h3 {
+  text-align: center;
+  position: relative;
+  font-size: 10px;
+}
+
 .search {
   text-align: center;
   position: relative;

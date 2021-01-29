@@ -23,10 +23,10 @@ h3 {
   position: relative;
 }
 .weather-app {
-  border: 1px solid #fca652;
+  border: 2px solid #fca652;
   padding: 15px;
   margin: 20px auto;
-  max-width: 490px;
+  max-width: 565px;
   border-radius: 15px;
 }
 
